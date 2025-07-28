@@ -1,5 +1,5 @@
 # Win SSH 蜜罐/SSH-Honeypot For Windows
-
+# \*本项目将进行重构，减少冗余函数，优化性能。
 ### 一个 SSH蜜罐的快速部署脚本，基于Windows-OpenSSH。
 
   本项目为原 Linux SSH 蜜罐的分支，用于在 Windows 环境下自动化部署 SSH 弱口令蜜罐项目，基于 Windows-OpenSSH，无前置项目。
